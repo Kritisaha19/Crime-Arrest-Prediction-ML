@@ -101,7 +101,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 3️⃣ Add the dataset
 
-Place the crime dataset CSV file in the project directory and update the file path in the code if needed.
+https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+Download and place the crime dataset CSV file in the project directory and update the file path in the code if needed.
 
 ### 4️⃣ Run the script
 
